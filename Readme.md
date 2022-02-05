@@ -1,13 +1,16 @@
 
-Clustering K-means(Apply two clustering methods in your datasets)
+## Clustering K-means(Apply two clustering methods in your datasets)
 
 1. Form a Team of two to four students.
 
 2. Leverage the ML life-cycle:
 
-Find a business objective connected to it.
+### Find a business objective connected to it.
+Dividing customers into groups for the purpose of targeting advertisements or promotions (based on purchasing patterns,purchase history)
 
-Find a data set, wrangle and prepare it.
+
+### Find a data set, wrangle and prepare it.
+https://www.kaggle.com/olistbr/brazilian-ecommerce
 
 Find what the data is saying : use unsupervised clustering algorithms to find clusters and interpret them.
 
